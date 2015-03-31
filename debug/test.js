@@ -1,1 +1,4 @@
-hello my name is bob
+"use strict";
+var test = 'hello my name is bob';
+
+console.log('1');
